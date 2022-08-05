@@ -6,15 +6,6 @@ ML – Unsupervised
 ONLINE RETAIL CUSTOMER SEGMENTATION
 
 Almabetter, Bengaluru
-Team Members
-
-Varsha Rani 
-
-Vivek Chandrakant Pawar
-
-Rabista Parween 
-
-Tushar Gaikwad
 
 1. Problem Description:
 
